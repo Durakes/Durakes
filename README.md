@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Durakes
-- 👀 I’m interested in Game Dev and Backend Development
+- 👀 I’m interested in Software Development in General, from backend to IoT.
 - 🌱 I’m currently learning Unity, and studying Computer Science at USIL in Perú
 - 📫 How to reach me, just mail me at arnold.pajuelo@gmail.com // apa168@hotmail.com
 <!---
